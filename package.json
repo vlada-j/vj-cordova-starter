@@ -1,7 +1,7 @@
 {
   "name": "vj-cordova-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cordova starter seed with Gulp",
   "dependencies": {},
   "devDependencies": {
     "cordova": "^6.1.1",
